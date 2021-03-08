@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1580320980 source:c:\users\stefan\desktop\programare\game opt\player.cpp
+	"player.h"
+	<iostream>
+	<cstring>
+
+1580858877 c:\users\stefan\desktop\programare\game opt\player.h
+	<cstring>
+	<iostream>
+
+1580859685 source:c:\users\stefan\desktop\programare\game opt\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	<stdio.h>
+	"player.h"
+
